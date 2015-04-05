@@ -1,0 +1,10 @@
+C:\Users\Ahmed Yehia\Desktop\DB Manager\ErrorHandlingLib\bin\Debug\ErrorHandlingLib.dll
+C:\Users\Ahmed Yehia\Desktop\DB Manager\ErrorHandlingLib\bin\Debug\ErrorHandlingLib.pdb
+C:\Users\Ahmed Yehia\Desktop\DB Manager\ErrorHandlingLib\obj\Debug\ErrorHandlingLib.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Yehia\Desktop\DB Manager\ErrorHandlingLib\obj\Debug\ErrorHandlingLib.dll
+C:\Users\Ahmed Yehia\Desktop\DB Manager\ErrorHandlingLib\obj\Debug\ErrorHandlingLib.pdb
+D:\Ahmed\GIT Projects\Database Manager-AR\Database-Manager-AR\DB Manager\ErrorHandlingLib\bin\Debug\ErrorHandlingLib.dll
+D:\Ahmed\GIT Projects\Database Manager-AR\Database-Manager-AR\DB Manager\ErrorHandlingLib\bin\Debug\ErrorHandlingLib.pdb
+D:\Ahmed\GIT Projects\Database Manager-AR\Database-Manager-AR\DB Manager\ErrorHandlingLib\obj\Debug\ErrorHandlingLib.csprojResolveAssemblyReference.cache
+D:\Ahmed\GIT Projects\Database Manager-AR\Database-Manager-AR\DB Manager\ErrorHandlingLib\obj\Debug\ErrorHandlingLib.dll
+D:\Ahmed\GIT Projects\Database Manager-AR\Database-Manager-AR\DB Manager\ErrorHandlingLib\obj\Debug\ErrorHandlingLib.pdb

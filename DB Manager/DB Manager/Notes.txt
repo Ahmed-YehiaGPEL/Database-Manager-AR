@@ -1,0 +1,4 @@
+﻿When first logging into ask for password entry by the user
+
+store it and change the boolean value to false >> isFirstOpen
+
